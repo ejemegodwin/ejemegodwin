@@ -36,4 +36,4 @@ I am a passionate software developer dedicated to building scalable web applicat
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/ejeme-godwin-8a76a232a/)
-- 📧 [![Email](https://gmail.com)](gmail:ejemegodwin@gmail.com)
+- [📧 Email](https://mail.google.com/mail/?view=cm&to=godwinejeme@gmail.com)
