@@ -125,7 +125,7 @@ I'm currently sharpening my backend engineering skills with **Go**, while contin
 
 <div align="center">
 
-### *"Great software isn't just written—it is engineered."*
+### *"Software engineering is a journey of continuous learning. Every project is an opportunity to become a better developer."*
 
 ⭐ **Thanks for visiting my profile.**
 
