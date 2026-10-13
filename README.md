@@ -117,11 +117,22 @@ A Go command-line project that renders text as ASCII art with input validation a
 
 ## 🤝 Connect With Me
 
-- 🌐 **Portfolio:** [godwin-developer-portfolio](https://godwin-developer-portfolio-2ag0rgksl-focus-2bf86178.vercel.app/)
-- 💼 **LinkedIn:** [Godwin Ejeme](https://www.linkedin.com/in/ejeme-godwin-8a76a232a/)
-- 📧 **Email:** [godwinejeme@gmail.com](mailto:godwinejeme@gmail.com)
+<div align="center">
 
----
+ <a href="https://godwin-developer-portfolio-2ag0rgksl-focus-2bf86178.vercel.app/" />
+ <img width="220" height="100" src="https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/cujaayxuuf9rzlejj0d1" />
+
+<br>
+
+*Click the image for more details*
+
+<a href="https://www.linkedin.com/in/ejeme-godwin-8a76a232a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
+</a>
+
+<a href="mailto:godwinejeme@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email">
+</a>
 
 <div align="center">
 
