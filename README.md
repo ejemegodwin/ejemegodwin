@@ -12,7 +12,7 @@
 
 **I build systems, break them, understand why they broke, and build them better.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://godwin-developer-portfolio-2ag0rgksl-focus-2bf86178.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://focusport.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-ejemegodwin-181717?style=for-the-badge&logo=github)](https://github.com/ejemegodwin)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godwinejeme@gmail.com)
 
